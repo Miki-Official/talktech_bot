@@ -3,7 +3,7 @@ import stripe
 import telegram
 
 # Step 1: Initialize the OpenAI and Stripe API clients
-openai.api_key = "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"
+openai.api_key = "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"
 stripe.api_key = "https://buy.stripe.com/test_5kAcOU1wSeGe68U9AA"
 
 # Step 2: Initialize the Telegram API client
