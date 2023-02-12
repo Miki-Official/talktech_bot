@@ -7,7 +7,7 @@ openai.api_key = "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"
 stripe.api_key = "https://buy.stripe.com/test_5kAcOU1wSeGe68U9AA"
 
 # Step 2: Initialize the Telegram API client
-bot = telegram.Bot(token="YOUR_TELEGRAM_BOT_TOKEN")
+bot = telegram.Bot(token="5920400346:AAEirkKhqRmEE8whzQc4U4gCF817s6wAzXo")
 
 # Step 3: Define a function to generate responses
 def generate_response(prompt):
